@@ -1,3 +1,3 @@
 # giftlow-branch-1
 # to improve is to change.
-# There is nothing permanent. except chenge
+# There is nothing permanent. except change
